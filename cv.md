@@ -7,3 +7,4 @@ About me: I am active, initiative, but plodding, I learn quickly, I love everyth
 Education and work experience: I graduated from Francisk Skorina Gomel State University as an accountant. After graduation, I worked as a chief accountant for a year and a half,
 and then went to support the 1C 8 program. Recently, I myself mastered programming 1C8 (OOP) and started working at the same time
 as the programmer (the last six months).
+My English level: А2.

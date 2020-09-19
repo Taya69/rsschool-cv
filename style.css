@@ -1,0 +1,56 @@
+section { background-image: url(capt/bg2.jpg); }
+.mainclass {    
+  margin-left: auto;
+  margin-right: auto; 
+  width: 650px; 
+  height: 100vh; 	
+  border: 3px solid rgba(0,128,0,.034);
+}
+.aboutme {
+  width: 380px; 
+  height: 20vh; 
+  position: absolute;
+  top: 100px;
+  left: 660px;
+}
+.contacs {
+  width: 250px; 
+  height: 20vh; 
+  position: absolute;
+  top: 300px;
+  left: 460px;
+}
+.purpose {
+  margin-left: auto;
+  margin-right: auto; 
+  width: 250px; 
+  height: 35vh; 
+  position: absolute;
+  top: 460px;
+  left: 460px; 
+}
+.workexperience {
+  margin-left: auto;
+  margin-right: auto; 
+  width: 250px; /* устанавливаем ширину элемента */
+  height: 40vh; /* устанавливаем высоту элемента */
+  position: absolute;
+  top: 300px;
+  left: 760px; 
+}
+.englishlevel {
+  margin-left: auto;
+  margin-right: auto; 
+  width: 250px; /* устанавливаем ширину элемента */
+  height: 15vh; /* устанавливаем высоту элемента */
+  position: absolute;
+  top: 600px;
+  left: 760px; 
+}
+#myname { font-size: 30px; }
+#capt {
+  border-radius: 50px; /* Радиус скругления */
+  border: 3px solid rgba(0,128,0,.034); /* Параметры рамки */
+  box-shadow: 0 0 7px #666; /* Параметры тени */
+}
+  

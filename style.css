@@ -41,8 +41,8 @@ section { background-image: url(capt/bg2.jpg); }
 .englishlevel {
   margin-left: auto;
   margin-right: auto; 
-  width: 250px; /* устанавливаем ширину элемента */
-  height: 15vh; /* устанавливаем высоту элемента */
+  width: 250px; 
+  height: 15vh;
   position: absolute;
   top: 600px;
   left: 760px; 
